@@ -22,8 +22,8 @@ public class Bank_details {
 
 	public static void main(String[] args) {
 		
-		Bank b1=new Bank("sumaiya",01,500);
-		Bank b2= new Bank("john",04,100);
+		Bank b1=new Bank("jagadish",01,600);
+		Bank b2= new Bank("goud",04,100);
 		
 		
 		Bank_details bd1=new Bank_details();
